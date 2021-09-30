@@ -4,6 +4,6 @@
 
 ### Dataset used :-
 ```
-1. MNIST
-2. CelebA
+1. MNIST :- contains images of handwritten digits
+2. CelebA :- contains over 200,000 celebrity images with annotations
 ```
